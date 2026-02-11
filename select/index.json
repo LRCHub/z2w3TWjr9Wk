@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "A Night to Remember",
+  "base_artist": "Shalamar",
+  "createdAt": "2026-02-11T13:21:33.519606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Night To Remember",
+      "artist": "Shalamar",
+      "has_synced": true,
+      "path": "select/01_A_Night_To_Remember_Shalamar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Shalamar",
+      "has_synced": true,
+      "path": "select/02_A_Night_to_Remember_Shalamar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Night To Remember",
+      "artist": "U96",
+      "has_synced": true,
+      "path": "select/03_A_Night_To_Remember_U96.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Pakito",
+      "has_synced": true,
+      "path": "select/04_A_Night_to_Remember_Pakito.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Night To Remember",
+      "artist": "Shalamar",
+      "has_synced": true,
+      "path": "select/05_A_Night_To_Remember_Shalamar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Shalamar",
+      "has_synced": true,
+      "path": "select/06_A_Night_to_Remember_Shalamar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Shalamar",
+      "has_synced": true,
+      "path": "select/07_A_Night_to_Remember_Shalamar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Night To Remember",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/08_A_Night_To_Remember_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Night To Remember",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/09_A_Night_To_Remember_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/10_A_Night_to_Remember_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Night To Remember",
+      "artist": "Liberty X",
+      "has_synced": false,
+      "path": "select/11_A_Night_To_Remember_Liberty_X.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Patrick Nuo",
+      "has_synced": false,
+      "path": "select/12_A_Night_to_Remember_Patrick_Nuo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Night To Remember",
+      "artist": "beabadoobee • Laufey",
+      "has_synced": true,
+      "path": "select/13_A_Night_To_Remember_beabadoobee_•_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/14_A_Night_to_Remember_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Night To Remember (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/15_A_Night_To_Remember_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Betty Who",
+      "has_synced": true,
+      "path": "select/16_A_Night_to_Remember_Betty_Who.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If Ya Wanna Be Bad (Ya Gotta Be Good) / Let's Make a Night to Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/17_If_Ya_Wanna_Be_Bad_(Ya_Gotta_Be_Good)___Let's_Make_a_Night_to_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "If Ya Wanna Be Bad — Ya Gotta Be Good \u0000 Let’s Make a Night to Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/18_If_Ya_Wanna_Be_Bad_—_Ya_Gotta_Be_Good_\u0000_Let’s_Make_a_Night_to_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Let's Make a Night to Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/19_Let's_Make_a_Night_to_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Let’s Make a Night to Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/20_Let’s_Make_a_Night_to_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "A Night To Remember (Album Version)",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/21_A_Night_To_Remember_(Album_Version)_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "If Ya Wanna Be Bad-Ya Gotta Be Good / Let's Make A Night To Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/22_If_Ya_Wanna_Be_Bad-Ya_Gotta_Be_Good___Let's_Make_A_Night_To_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/23_A_Night_to_Remember_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Let's Make A Night To Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/24_Let's_Make_A_Night_To_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Night To Remember",
+      "artist": "Shalamar",
+      "has_synced": false,
+      "path": "select/pl_01_Night_To_Remember_Shalamar.txt"
+    }
+  ]
+}
